@@ -17,6 +17,7 @@ Roditech is created with:
 * Arduino
 * C++
 * Bluetooth
+* AppInventor
 	
 ## :cd: Setup
 Clone these files anywhere and browse the code.
